@@ -81,13 +81,6 @@ def filebrowsing():
 
 
 
-# def helpButton():
-#
-#     tkMessageBox.showinfo("Press the select button and select your pdf files. Once you've selected the pdf file, it's gonna open another tab to select the save file directory. ")
-#
-
-
-
 
 # GUI
 root.geometry('520x120')
